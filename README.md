@@ -6,7 +6,7 @@ Its goal is to provide concise, self-contained introductions to cutting-edge AI 
 
 ## Available notebooks
 
-### Conditional Flow Matching
+### [Conditional Flow Matching](https://github.com/aircarlo/ai-notebooks/blob/main/fm_basics.ipynb)
 
 <p align="center">
   <img src="img/fm_field.gif" alt="Flow Matching" width="30%">
