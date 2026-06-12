@@ -8,7 +8,9 @@ Its goal is to provide concise, self-contained introductions to cutting-edge AI 
 
 ### Conditional Flow Matching
 
-
+<p align="center">
+  <img src="img/fm_field.gif" alt="Flow Matching" width="30%">
+</p>
 
 The first notebook in this series introduces **Conditional Flow Matching (CFM)** and includes three minimal implementations:
 
